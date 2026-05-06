@@ -1,0 +1,22 @@
+window.PRODUCTS = [
+  {"id":"tenis-nike-dunk","name":"Tênis Nike Dunk Low","price":399.90,"category":"tenis","image":"assets/img/products/nike-dunk.png","stock":12,"badge":"Novo","active":1},
+  {"id":"chinelo-yeezy-slide","name":"Chinelo Yeezy Slide","price":169.90,"category":"chinelos","image":"assets/img/products/yeezy-slide.png","stock":20,"badge":"Novo","active":1},
+  {"id":"bone-lacoste-preto","name":"Boné Lacoste Sport Preto","price":129.90,"category":"acessorios","image":"assets/img/products/acessorios/bone-lacoste-preto.png","stock":16,"badge":"Novo","active":1},
+  {"id":"chinelo-kenner-gold","name":"Chinelo Kenner Kivah Gold","price":159.90,"category":"chinelos","image":"assets/img/products/chinelos/chinelo-kenner-gold-preto.png","stock":18,"badge":"Novo","active":1},
+  {"id":"chinelo-kenner-prata","name":"Chinelo Kenner Kivah Preto/Prata","price":159.90,"category":"chinelos","image":"assets/img/products/chinelos/chinelo-kenner-kivah-preto-prata.png","stock":18,"badge":"Novo","active":1},
+  {"id":"chinelo-kenner-action","name":"Chinelo Kenner Action Preto","price":149.90,"category":"chinelos","image":"assets/img/products/chinelos/chinelo-kenner-action-preto.png","stock":18,"badge":"Novo","active":1},
+  {"id":"camisa-adidas-essential","name":"Camiseta Adidas Essentials","price":129.90,"category":"camisas","image":"assets/img/products/camisas/camisa-adidas-black.png","stock":20,"badge":"Novo","active":1},
+  {"id":"camisa-nike-club","name":"Camiseta Nike Club","price":119.90,"category":"camisas","image":"assets/img/products/camisas/camisa-nike-black.png","stock":20,"badge":"Novo","active":1},
+  {"id":"polo-lacoste-branca","name":"Camisa Polo Lacoste Branca","price":179.90,"category":"camisas","image":"assets/img/products/polo-lacoste.png","stock":15,"badge":"Premium","active":1},
+  {"id":"camisa-gucci-premium","name":"Camisa Gucci Premium","price":189.90,"category":"camisas","image":"assets/img/products/gucci.png","stock":10,"badge":"Premium","active":1},
+  {"id":"kit-brasil-amarelo","name":"Kit Brasil Amarelo + Bermuda Azul","price":129.90,"category":"times","image":"assets/img/products/times/kit-brasil-amarelo.jpeg","stock":20,"badge":"Kit","active":1},
+  {"id":"kit-alemanha-branco","name":"Kit Alemanha Branco + Bermuda Preta","price":129.90,"category":"times","image":"assets/img/products/times/kit-alemanha-branco.jpeg","stock":20,"badge":"Kit","active":1},
+  {"id":"kit-argentina-listrado","name":"Kit Argentina Listrado + Bermuda Azul","price":129.90,"category":"times","image":"assets/img/products/times/kit-argentina-listrado.jpeg","stock":20,"badge":"Kit","active":1},
+  {"id":"kit-espanha-vermelho","name":"Kit Espanha Vermelho + Bermuda Azul","price":129.90,"category":"times","image":"assets/img/products/times/kit-espanha-vermelho.jpeg","stock":20,"badge":"Kit","active":1},
+  {"id":"kit-alemanha-azul","name":"Kit Alemanha Azul Marinho + Bermuda Verde Água","price":129.90,"category":"times","image":"assets/img/products/times/kit-alemanha-azul.jpeg","stock":20,"badge":"Kit","active":1},
+  {"id":"kit-belgica-vermelho","name":"Kit Bélgica Vermelho + Bermuda Preta","price":129.90,"category":"times","image":"assets/img/products/times/kit-belgica-vermelho.jpeg","stock":20,"badge":"Kit","active":1},
+  {"id":"kit-inglaterra-branco","name":"Kit Inglaterra Branco + Bermuda Branca","price":129.90,"category":"times","image":"assets/img/products/times/kit-inglaterra-branco.jpeg","stock":20,"badge":"Kit","active":1},
+  {"id":"kit-portugal-vermelho","name":"Kit Portugal Vermelho + Bermuda Verde","price":129.90,"category":"times","image":"assets/img/products/times/kit-portugal-vermelho.jpeg","stock":20,"badge":"Kit","active":1},
+  {"id":"kit-franca-azul","name":"Kit França Azul + Bermuda Branca","price":129.90,"category":"times","image":"assets/img/products/times/kit-franca-azul.jpeg","stock":20,"badge":"Kit","active":1},
+  {"id":"kit-brasil-preto","name":"Kit Brasil Preto + Bermuda Preta","price":129.90,"category":"times","image":"assets/img/products/times/kit-brasil-preto.jpeg","stock":20,"badge":"Kit","active":1}
+];
